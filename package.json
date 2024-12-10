@@ -16,9 +16,9 @@
   ],
   "homepage": "https://nestjs-telegraf.0x467.com/",
   "bugs": {
-    "url": "https://github.com/0x467/nestjs-telegraf/issues"
+    "url": "https://github.com/svetlitskiy/nestjs-telegraf/issues"
   },
-  "repository": "git@github.com:0x467/nestjs-telegraf.git",
+  "repository": "git@github.com:svetlitskiy/nestjs-telegraf.git",
   "license": "MIT",
   "author": "0x467 <0x467@pm.me>",
   "contributors": [

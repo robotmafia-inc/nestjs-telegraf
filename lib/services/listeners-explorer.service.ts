@@ -182,7 +182,10 @@ export class ListenersExplorerService
           basicListeners.push(methodName);
           return undefined;
         }
-        wizardSteps.push({ step: metadata.step, methodName });
+
+        metadata.steps.forEach((step) => {
+          wizardSteps.push({ step, methodName });
+        });
       },
     );
 

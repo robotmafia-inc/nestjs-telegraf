@@ -7,5 +7,5 @@ export interface SceneMetadata {
 }
 
 export interface WizardStepMetadata {
-  step: number;
+  steps: number[];
 }

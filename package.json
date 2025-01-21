@@ -57,8 +57,8 @@
   "devDependencies": {
     "@commitlint/cli": "19.3.0",
     "@commitlint/config-angular": "19.3.0",
-    "@nestjs/common": "^10.3.9",
-    "@nestjs/core": "^10.3.9",
+    "@nestjs/common": "^11.0.3",
+    "@nestjs/core": "^11.0.3",
     "@types/lodash": "4.17.7",
     "@typescript-eslint/eslint-plugin": "7.17.0",
     "@typescript-eslint/parser": "7.16.1",
@@ -75,8 +75,8 @@
     "vitepress": "^1.2.3"
   },
   "peerDependencies": {
-    "@nestjs/common": "^9.0.0 || ^10.0.0",
-    "@nestjs/core": "^9.0.0 || ^10.0.0",
+    "@nestjs/common": "^9.0.0 || ^10.0.0 || ^11.0.0",
+    "@nestjs/core": "^9.0.0 || ^10.0.0 || ^11.0.0",
     "reflect-metadata": "^0.2.2",
     "telegraf": "^4.0.0",
     "typescript": "^4.1.2 || ^5.0.0"
